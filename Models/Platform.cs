@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PlatformService.Models;
 
-class Platform
+public class Platform
 {
   [Key]
   [Required]
